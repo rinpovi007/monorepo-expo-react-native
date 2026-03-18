@@ -5,6 +5,18 @@
   "references": [
     {
       "path": "./apps/hsc-mobile-app"
+    },
+    {
+      "path": "./components"
+    },
+    {
+      "path": "./ui"
+    },
+    {
+      "path": "./packages/ui"
+    },
+    {
+      "path": "./packages/utils"
     }
   ]
 }

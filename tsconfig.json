@@ -4,19 +4,25 @@
   "files": [],
   "references": [
     {
+      "path": "./apps/mobile"
+    },
+    {
       "path": "./apps/hsc-mobile-app"
     },
     {
-      "path": "./components"
+      "path": "./libs/utils"
     },
     {
-      "path": "./ui"
+      "path": "./libs/share-components"
     },
     {
-      "path": "./packages/ui"
+      "path": "./libs/hooks"
     },
     {
-      "path": "./packages/utils"
+      "path": "./libs/share-hooks"
+    },
+    {
+      "path": "./libs/share-utils"
     }
   ]
 }
